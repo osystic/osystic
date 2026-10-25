@@ -15,6 +15,7 @@ OSYSTIC designs, builds, and deploys AI systems, digital products, and data infr
 Our public repositories are sanitized engineering case studies. Confidential implementation source, credentials, client identities, protected datasets and private delivery material remain private.
 
 - [Website](https://www.osystic.com/)
+- [LinkedIn](https://www.linkedin.com/company/osystic)
 - [Case Studies](https://www.osystic.com/case-studies)
 - [Engineering Insights](https://www.osystic.com/insights)
 - [AI Systems](https://www.osystic.com/capabilities/ai-systems)
