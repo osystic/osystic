@@ -14,6 +14,8 @@ OSYSTIC designs, builds, and deploys AI systems, digital products, and data infr
 
 Our public repositories are sanitized engineering case studies. Confidential implementation source, credentials, client identities, protected datasets and private delivery material remain private.
 
+- [Edge AI Companion Robotics - Engineering Case Study](https://github.com/osystic/Local-AI-Companion-Robotics-Case-Study) - Local AI, speech pipelines, ROS 2 integration and edge-device validation.
+
 - [Website](https://www.osystic.com/)
 - [LinkedIn](https://www.linkedin.com/company/osystic)
 - [Case Studies](https://www.osystic.com/case-studies)
